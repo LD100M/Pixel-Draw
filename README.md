@@ -1,1 +1,1 @@
-# Pixel-Draw
+A simple yet powerful tool that lets users create stunning pixel art with ease. Whether you're a beginner or an experienced artist, this app provides an intuitive interface for crafting intricate pixel designs quickly and efficiently.
